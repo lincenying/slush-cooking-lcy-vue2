@@ -1,15 +1,20 @@
-# slush-cooking-vue
+# slush-cooking-lcy-vue2
+> A vue2 + vuex2 + vue-router2 project template for cooking.
 
-> A vue project template for cooking.
+## Development
 
-## Dependency
-- [cooking-vue](https://github.com/cookingjs/cooking-vue/)
-- [cooking-lint](https://github.com/cookingjs/cooking-lint/)
-
-## Quick Start
 ```shell
-npm i cooking -g
+npm i cooking-cli -g
 
-mkdir test-vue && cd test-vue
-cooking init vue
+cooking create my-project lcy-vue2
+
+cd my-project && npm run dev
 ```
+
+## Production
+```
+npm run dist
+```
+
+## License
+MIT

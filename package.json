@@ -1,11 +1,11 @@
 {
-  "name": "slush-cooking-vue",
-  "version": "1.1.5",
-  "description": "A vue project template for cooking.",
+  "name": "slush-cooking-lcy-vue2",
+  "version": "1.1.0",
+  "description": "A vue2 + vuex2 + vue-router2 project template for cooking.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cookingjs/slush-cooking-vue.git"
+    "url": "git+https://github.com/lincenying/slush-cooking-lcy-vue2.git"
   },
   "scripts": {},
   "keywords": [
@@ -13,11 +13,11 @@
     "vue",
     "slushgenerator"
   ],
-  "author": "qingwei-li <cinwell.li@gmail.com>",
+  "author": "lincenying <lincenying@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cookingjs/slush-cooking-vue/issues"
+    "url": "https://github.com/lincenying/slush-cooking-lcy-vue2/issues"
   },
-  "homepage": "https://github.com/cookingjs/slush-cooking-vue#readme",
+  "homepage": "https://github.com/lincenying/slush-cooking-lcy-vue2#readme",
   "dependencies": {}
 }

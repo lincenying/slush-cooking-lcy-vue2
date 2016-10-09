@@ -3,8 +3,8 @@
 
 ## Development
 
-```shell<% if (!cooking) { %>
-npm i cooking -g<% } %>
+```shell
+npm i cooking-cli -g
 npm run dev
 ```
 
@@ -14,4 +14,4 @@ npm run dist
 ```
 
 ## License
-<%= license %>
+MIT
